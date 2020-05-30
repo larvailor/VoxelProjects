@@ -4,7 +4,7 @@
 o WoodenTower1
 
 # material
-mtllib WoodenTower1.mtl
+mtllib WoodenTower1_BlueRoof.mtl
 usemtl palette
 
 # normals
